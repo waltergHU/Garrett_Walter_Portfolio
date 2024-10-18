@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #afafff;
+  font-family: 'Times New Roman', Times, serif;
+  font-stretch: expanded;
+  
+}
+h1{
+  font-family: cursive;
+}
+p{
+  font-size: 15px;
+}
+
+/*Garrett Walter*/
+/*10/18/2024*/
+/*Changed background color, changed font family for header and body, changed font size, font streched expanded*/
